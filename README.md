@@ -11,4 +11,4 @@
 
 5)Press the toggle key or hold key and set it as which ever button on controller or kbm as u want for it to work and then hit apply and you should be all set
 
-                                            (may need restart in fortnite if dosent work after saving the changes)
+                              (may need restart in fortnite if dosent work after saving the changes)

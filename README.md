@@ -1,1 +1,1 @@
-# TB Universal Prefire Macro Fort All Fps Games.
+# TB Universal Prefire Macro For All Fps Games.

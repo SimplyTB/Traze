@@ -5,6 +5,6 @@
 3. Download the TBPM RAR File inside the github pressing releases then Download 
   *TBPM-Main* <-----
 
- 4.Then run the TBPM *BEFORE* opening fortnite
+4.Then run the TBPM *BEFORE* opening fortnite
 
 5. Once your inside the lobby, hold win+T to open the menu and apply the settings you want
